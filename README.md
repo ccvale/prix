@@ -9,9 +9,12 @@ Essentially, this trip is a big circle encompassing the majority of the United S
 
 ## Desired Features
 
-Some things I plan on observing throughout the trip
+This will be my first attempt developing an app with Swift; the purpose of the app is to be sideloaded on my phone during the trip, so events can be recorded and handled with the trip dashboard.
 
-- Weather for all of the destinations, built in
-- Checklist; allow for many different themed lists, and allow things to be checked off, and added (ex. sights to see, food to try, etc.)
+Some things I plan on observing throughout the trip:
+
+- A tab for each destination of the trip
+  - Weather on hand for all of the destinations, built in (as opposed to looking it up, or storing 20 different favorites in the default weather app)
+  - Checklist; allow for many different themed lists, and allow things to be checked off, and added (ex. sights to see, food to try, etc.)
 - Licence plate tracker (as a fan and collector of licence plates, I think it'd be interesting to see how many plates/50 that can be found along the way)
 - State ranker; using our home state of New Jersey (underrated, for the record) as a baseline, using certain metrics to track and compile a leaderboard of the top ranking states on the trip
